@@ -11,10 +11,13 @@ Final results will be saved as .xls/.xlsx format.
 - pdf2image
 - tesseract-ocr
 
-
-
 ## Tools:
 - Anaconda for research concepts
 - Pycharm as app development environment
 - GitBash (for Windows git flow)
 - Trello for work management
+
+## Branches:
+- master
+- research
+- app
